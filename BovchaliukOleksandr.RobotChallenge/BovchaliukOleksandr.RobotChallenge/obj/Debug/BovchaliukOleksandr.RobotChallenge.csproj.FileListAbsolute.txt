@@ -1,0 +1,9 @@
+K:\3kurs\KPZ\BovchaliukOleksandr.RobotChallenge\BovchaliukOleksandr.RobotChallenge\bin\Debug\BovchaliukOleksandr.RobotChallenge.dll
+K:\3kurs\KPZ\BovchaliukOleksandr.RobotChallenge\BovchaliukOleksandr.RobotChallenge\bin\Debug\BovchaliukOleksandr.RobotChallenge.pdb
+K:\3kurs\KPZ\BovchaliukOleksandr.RobotChallenge\BovchaliukOleksandr.RobotChallenge\bin\Debug\Robot.Common.dll
+K:\3kurs\KPZ\BovchaliukOleksandr.RobotChallenge\BovchaliukOleksandr.RobotChallenge\bin\Debug\Robot.Tournament.dll
+K:\3kurs\KPZ\BovchaliukOleksandr.RobotChallenge\BovchaliukOleksandr.RobotChallenge\obj\Debug\BovchaliukOleksandr.RobotChallenge.csproj.CoreCompileInputs.cache
+K:\3kurs\KPZ\BovchaliukOleksandr.RobotChallenge\BovchaliukOleksandr.RobotChallenge\obj\Debug\BovchaliukOleksandr.RobotChallenge.csproj.CopyComplete
+K:\3kurs\KPZ\BovchaliukOleksandr.RobotChallenge\BovchaliukOleksandr.RobotChallenge\obj\Debug\BovchaliukOleksandr.RobotChallenge.dll
+K:\3kurs\KPZ\BovchaliukOleksandr.RobotChallenge\BovchaliukOleksandr.RobotChallenge\obj\Debug\BovchaliukOleksandr.RobotChallenge.pdb
+K:\3kurs\KPZ\BovchaliukOleksandr.RobotChallenge\BovchaliukOleksandr.RobotChallenge\obj\Debug\BovchaliukOleksandr.RobotChallenge.csprojAssemblyReference.cache
